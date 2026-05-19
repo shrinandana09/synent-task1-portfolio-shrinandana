@@ -11,6 +11,9 @@ header {
   text-align: center;
   padding: 30px 20px;
 }
+body {
+  background-color: #e6f2ff;
+}
 
 header h1 {
   margin: 0;
